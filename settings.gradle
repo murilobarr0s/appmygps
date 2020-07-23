@@ -1,0 +1,2 @@
+rootProject.name='MyGPS'
+include ':app'
